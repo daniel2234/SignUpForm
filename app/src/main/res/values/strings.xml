@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">LoginActivity</string>
     <string name="username_label">Username</string>
-    <string name="username_input_hint">Enter enter your username.</string>
+    <string name="username_input_hint">Please enter your username.</string>
+    <string name="password_label">Password.</string>
+    <string name="username_hint">Please enter your password.</string>
+    <string name="confirmation_label">Confirmation</string>
+    <string name="confirmation_hint">Please enter your confirmation password</string>
     <string name="submit">Submit</string>
+    <string name="message_format">Welcome. %1$s!</string>
 </resources>
